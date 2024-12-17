@@ -1,0 +1,8 @@
+Dataset yang digunakan pada final project ini berisikan gambar daun anggur yang dikategorikan ke dalam empat kelas penyakit, yaitu:
+
+1. Black Rot	: Gambar daun anggur yang menunjukkan gejala kerusakan akibat infeksi jamur Guignardia bidwellii, dengan bercak hitam yang dapat meluas ke 			seluruh daun.
+2. ESCA		: Gambar daun anggur yang terinfeksi penyakit Esca, yang ditandai dengan bercak-bercak kekuningan atau kecokelatan yang tidak teratur di daun.
+3. Healthy		: Gambar daun anggur yang tidak terinfeksi penyakit, dengan kondisi daun yang sehat dan bebas dari gejala penyakit.
+4. Leaf Blight	: Gambar daun anggur yang mengalami kerusakan akibat penyakit leaf blight, yang umumnya ditandai dengan bercak coklat atau hitam pada 		permukaan daun.
+
+Dataset ini terdiri dari gambar berformat JPG, JPEG, dan PNG, dengan resolusi yang bervariasi namun umumnya diubah menjadi ukuran standar 224x224 piksel saat diproses. Setiap gambar diberi label sesuai dengan kondisi yang ditunjukkan, dan digunakan untuk melatih model klasifikasi penyakit daun anggur. Dataset ini dibagi menjadi tiga bagian utama: data pelatihan (training), data validasi (validation), dan data pengujian (testing). Data pelatihan digunakan untuk melatih model, data validasi digunakan untuk mengevaluasi kinerja model selama pelatihan, dan data pengujian digunakan untuk menguji model setelah pelatihan selesai. Dataset ini memungkinkan model untuk belajar mengenali pola-pola yang berkaitan dengan berbagai jenis penyakit pada daun anggur dengan akurasi yang tinggi.
